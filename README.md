@@ -1,7 +1,11 @@
 # Library-Management-System
 Library Management System Made during Project Training at NSIC. 
 
-Version 1: Basic Functionalities are added. Bar Code Scanner needs to be implemented.
+Version 1: Basic Functionalities are added. Bar Code Scanner needs to be implemented. 
+
+Instructions: Download and connect to a database. 
+
+Edit 1: Screenshots added.
 
 ![w1](https://user-images.githubusercontent.com/67497932/85989595-5ebd6380-ba0e-11ea-9e50-fffeddfb0bce.JPG)
 ![w2](https://user-images.githubusercontent.com/67497932/85989614-6250ea80-ba0e-11ea-9c91-36d050890fde.JPG)
